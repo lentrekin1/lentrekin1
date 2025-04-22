@@ -9,7 +9,7 @@
 </p>
 
 
-- 🔭 I’m currently working on: [Genesis Legal AI](https://www.genesislegalai.com/)
+- 🔭 I’m currently working on: <a href="https://www.genesislegalai.com/" target="_blank">Genesis Legal AI</a>
 
 - 🌱 I’m currently learning **OCaml**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **lee53@cornell.edu**
 
-- 📄 My Résumé: [https://tinyurl.com/LanceEntrekin](https://tinyurl.com/LanceEntrekin)
+- 📄 My Résumé: <a href="https://tinyurl.com/LanceEntrekinResume" target="_blank">https://tinyurl.com/LanceEntrekinResume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
