@@ -8,10 +8,9 @@
   </a>
 </p>
 
+- 📄 My Website (+ Résumé): <a href="https://www.entrek.in/" target="_blank">https://www.entrek.in/</a>
 
 - 🔭 I’m currently working on: <a href="https://www.genesislegalai.com/" target="_blank">Genesis Legal AI</a>
-
-- 📄 My Website (+ Résumé): <a href="https://www.entrek.in/" target="_blank">https://www.entrek.in/</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
