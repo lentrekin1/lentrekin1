@@ -10,8 +10,6 @@
 
 - 📄 My Website (+ Résumé): <a href="https://www.entrek.in/" target="_blank">https://www.entrek.in/</a>
 
-- 🔭 I’m currently working on: <a href="https://www.genesislegalai.com/" target="_blank">Genesis Legal AI</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lentrekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lentrekin" height="30" width="40" /></a>
