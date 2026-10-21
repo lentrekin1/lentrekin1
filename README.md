@@ -11,13 +11,7 @@
 
 - 🔭 I’m currently working on: <a href="https://www.genesislegalai.com/" target="_blank">Genesis Legal AI</a>
 
-- 🌱 I’m currently learning **OCaml**
-
-- 💬 Ask me about **AI/ML, Programming Theory, Web Dev**
-
-- 📫 How to reach me: **lee53@cornell.edu**
-
-- 📄 My Résumé: <a href="https://tinyurl.com/LanceEntrekinResume" target="_blank">https://tinyurl.com/LanceEntrekinResume</a>
+- 📄 My Website (+ Résumé): <a href="https://www.entrek.in/" target="_blank">https://www.entrek.in/</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
